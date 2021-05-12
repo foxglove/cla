@@ -1,3 +1,5 @@
+Individual Contributor License Agreement ("Agreement")
+
 In order to clarify the intellectual property license granted with Contributions from any person or entity, Foxglove Technologies Inc. ("Foxglove") must have a Contributor License Agreement ("CLA") on file that has been signed by each Contributor, indicating agreement to the license terms below. This license does not change your rights to use your own Contributions for any other purpose.
 
 You accept and agree to the following terms and conditions for Your present and future Contributions submitted to Foxglove. Except for the license granted herein to Foxglove and recipients of software distributed by Foxglove, You reserve all right, title, and interest in and to Your Contributions.
